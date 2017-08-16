@@ -1,0 +1,1 @@
+Just a test with typescript for VSLive 2017 class W14.
